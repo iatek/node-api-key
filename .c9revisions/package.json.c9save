@@ -1,0 +1,2 @@
+{"ts":1361203673463,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1361203697246,"patch":[[{"diffs":[[1,"{\r\n  \"name\": \"node-api-key\",\r\n  \"version\": \"0.0.1\",\r\n  \"author\": \"Iatek\",\r\n  \"dependencies\": {\r\n    \"express\": \">=3.x\",\r\n    \"ejs\": \">=0.6.x\",\r\n    \"ejs-locals\": \">=1.x\",\r\n    \"dirty\": \">=0.9.6\"\r\n  },\r\n  \"engines\": {\r\n    \"node\": \"0.6.x\"\r\n  }\r\n}"]],"start1":0,"start2":0,"length1":0,"length2":245}]],"length":245,"saved":false}
